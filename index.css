@@ -1,0 +1,178 @@
+h1{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    font-size: 2rem;
+    color: red;
+}
+
+.p1{
+    font-style: italic;
+    font-weight: bold;
+    color: purple;
+}
+
+.p2{
+    color: orange;
+}
+
+.p3{
+    font-style: oblique;
+    color: cornflowerblue;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+.l1{
+    text-align: start;
+    border-right: 2px solid yellow;
+}
+
+.l2{
+    text-align: center;
+    border: ;
+}
+
+.l3{
+    text-align: end;
+}
+
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border-radius: 50%
+}
+
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%
+}
+
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%
+}
+.divmaman{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.div21{
+    height: 100px;
+    width: 100px;
+    background-color :blue;
+    border-radius: 50%;
+    justify-self: start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div22{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%;
+    justify-self: center;
+}
+
+.div23{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+    justify-self: end;
+}
+
+.divmaman3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div31{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border-radius: 50%;
+    justify-self: start;
+}
+
+.div32{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%;
+    justify-self: center;
+}
+
+.div33{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+    justify-self: end;
+}
+
+.divmaman4{
+    display: flex;
+    justify-content: center;
+}
+
+.div41{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border-radius: 50%;
+}
+
+.div42{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%;
+}
+
+.div43{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+}
+
+.divmaman5{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div51{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border-radius: 50%;
+}
+
+.div52{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%;
+}
+
+.div53{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+}
